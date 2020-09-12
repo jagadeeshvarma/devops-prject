@@ -90,7 +90,7 @@ h2 {
 <div class="container">
     <h1>Welcome to the World of DevOps</h1>
   <div class="loader"></div>
-  <h2>| Git | Maven | Jenkins | Docker | Ansible | Kubernetes |</h2>
+  <h2> Git | Maven | Jenkins | Docker | Ansible | Kubernetes </h2>
 </div>
 </body>
 </html>
